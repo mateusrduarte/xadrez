@@ -1,0 +1,16 @@
+# Binarios e arquivos de compilacao
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+
+# Arquivos gerados por IDEs
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+Thumbs.db
+.DS_Store
